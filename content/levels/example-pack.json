@@ -1,0 +1,17 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "ex_5x5_heart",
+    "width": 5,
+    "height": 5,
+    "difficulty": "easy",
+    "tags": ["example"],
+    "solution": [
+      "00100",
+      "01110",
+      "11111",
+      "01110",
+      "00100"
+    ]
+  }
+]
